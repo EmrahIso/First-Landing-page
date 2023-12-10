@@ -1,0 +1,58 @@
+*,
+*::before,
+*::after {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.cont {
+    max-width: 117rem;
+    margin: 0 auto;
+}
+
+.header {
+  background-color: #1f2937;
+  padding: 2.4rem;
+}
+
+.header__logo {
+    font-size: 24px;
+    color: #f9faf8;
+    font-weight: 700;
+}
+
+.header__cont {
+    display: flex;
+  justify-content: space-between;
+}
+
+.nav__list {
+    display: flex;
+    list-style: none;
+    gap: 2.4rem;
+}
+
+.nav__link:link,
+.nav__link:visited {
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    color: #e5e7eb;
+    border-bottom: 1px solid transparent;
+    transition: all 0.3s;
+    padding-bottom: 3px;
+}
+
+.nav__link:hover,
+.nav__link:active {
+    border-bottom: 1px solid #e5e7eb;
+}
