@@ -148,3 +148,14 @@ body {
     margin-bottom: 2.4rem;
     text-align: center;
 }
+
+.footer {
+    background-color: #1d3557;
+    padding: 2.4rem;
+}
+
+.copyright {
+    text-align: center;
+    font-size: 1.8rem;
+    color: #dedfe1;
+}
