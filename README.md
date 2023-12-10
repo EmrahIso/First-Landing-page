@@ -5,8 +5,7 @@ This is my first landing page and one of the The Odin project challenges in intr
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process][#my-process]
-  - [Built with](#built-with)
+- [Built with](#built-with)
 - [Author](#author)
 
 ## Overview
@@ -17,9 +16,7 @@ This is my first landing page and one of the The Odin project challenges in intr
 
 ### Links
 
-## My process 
-
-### Built with 
+## Built with 
   - Semantic HTML5
   - CSS3
   - Flex-box
