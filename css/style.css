@@ -175,6 +175,51 @@ span {
     text-align: end;
 }
 
+.cta {
+    padding: 4rem 2.4rem;
+    background-color: #dee8ee;
+}
+
+.cta__cont {
+    background-color: #5c8ca9;
+    padding: 2.4rem 3.2rem;
+    margin: 0 24rem;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    gap: 4rem;
+}
+
+.cta__heading {
+    font-size: 2.4rem;
+    color: #dae5eb;
+    margin-bottom: 1.2rem;
+}
+
+.cta__button {
+  cursor: pointer;
+  display: inline-block;
+  font-size: 18px;
+  color: #dae5eb;
+  font-weight: 700;
+  background-color: transparent;
+  border: 2px solid #dae5eb;
+  padding: 0.6rem 3.2rem;
+  border-radius: 6px;
+  transition: all 0.3s;
+  width: 14rem;
+}
+
+.cta__button:hover {
+  background-color: #dae5eb;
+  color: #5c8ca9;
+}
+
+.cta__description {
+    font-size: 1.6rem;
+    color: #dae5eb;
+}
+
 .footer {
     background-color: #1d3557;
     padding: 2.4rem;
